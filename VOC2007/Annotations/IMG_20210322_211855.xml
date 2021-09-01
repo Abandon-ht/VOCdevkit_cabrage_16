@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210322_211855.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210322_211855.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>broccoli</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>314.90683229813664</xmin>
+        <ymin>205.59006211180122</ymin>
+        <xmax>582.6086956521739</xmax>
+        <ymax>501.863354037267</ymax>
+    </bndbox>
+</object>
+</annotation>

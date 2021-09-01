@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210322_211152.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210322_211152.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>green vegatable</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.484472049689441</xmin>
+        <ymin>115.52795031055899</ymin>
+        <xmax>511.8012422360248</xmax>
+        <ymax>759.0062111801242</ymax>
+    </bndbox>
+</object>
+</annotation>

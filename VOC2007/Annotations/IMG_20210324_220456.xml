@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210324_220456.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210324_220456.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>cigarette</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>221.7391304347826</xmin>
+        <ymin>73.91304347826086</ymin>
+        <xmax>352.7950310559006</xmax>
+        <ymax>702.4844720496894</ymax>
+    </bndbox>
+</object><object>
+    <name>cigarette</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>518.6335403726707</xmin>
+        <ymin>224.84472049689438</ymin>
+        <xmax>649.0683229813664</xmax>
+        <ymax>613.6645962732919</ymax>
+    </bndbox>
+</object>
+</annotation>

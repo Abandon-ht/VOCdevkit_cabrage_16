@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210402_155535.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210402_155535.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>battery</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>204.3478260869565</xmin>
+        <ymin>138.50931677018633</ymin>
+        <xmax>497.5155279503105</xmax>
+        <ymax>461.4906832298136</ymax>
+    </bndbox>
+</object>
+</annotation>

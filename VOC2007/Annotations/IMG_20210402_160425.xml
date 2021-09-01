@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210402_160425.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210402_160425.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>spitball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21.739130434782606</xmin>
+        <ymin>159.0062111801242</ymin>
+        <xmax>598.7577639751553</xmax>
+        <ymax>702.4844720496893</ymax>
+    </bndbox>
+</object>
+</annotation>

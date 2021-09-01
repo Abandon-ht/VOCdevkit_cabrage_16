@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210402_161324.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210402_161324.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>glass</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>457.76397515527947</xmin>
+        <ymin>118.6335403726708</ymin>
+        <xmax>800</xmax>
+        <ymax>694.4099378881988</ymax>
+    </bndbox>
+</object>
+</annotation>

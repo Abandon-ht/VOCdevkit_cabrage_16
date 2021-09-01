@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210410_000756.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210410_000756.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>tile</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>224.84472049689438</xmin>
+        <ymin>352.17391304347825</ymin>
+        <xmax>550.9316770186335</xmax>
+        <ymax>800</ymax>
+    </bndbox>
+</object>
+</annotation>

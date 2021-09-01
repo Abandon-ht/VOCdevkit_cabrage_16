@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210326_213845.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210326_213845.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>eggshell</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>168.3229813664596</xmin>
+        <ymin>231.67701863354034</ymin>
+        <xmax>722.3602484472049</xmax>
+        <ymax>775.7763975155278</ymax>
+    </bndbox>
+</object>
+</annotation>

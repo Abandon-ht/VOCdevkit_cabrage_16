@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210322_210726_1.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210322_210726_1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ceram</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>120.49689440993788</xmin>
+        <ymin>122.98136645962732</ymin>
+        <xmax>556.5217391304348</xmax>
+        <ymax>561.4906832298136</ymax>
+    </bndbox>
+</object>
+</annotation>

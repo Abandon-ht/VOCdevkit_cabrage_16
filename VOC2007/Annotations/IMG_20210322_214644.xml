@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_20210322_214644.jpg</filename>
+    <path>fw2_3_26-PascalVOC-export/Annotations/IMG_20210322_214644.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>boxes</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>8.074534161490682</xmin>
+        <ymin>97.51552795031056</ymin>
+        <xmax>709.9378881987577</xmax>
+        <ymax>800</ymax>
+    </bndbox>
+</object>
+</annotation>
